@@ -277,6 +277,7 @@ Please address workshop questions to [Ignacio Laguna](https://lagunaresearch.org
 
 ---
 ### <a class="anchor" name="previous">Previous Workshops</a>
+- [Correctness 2025](https://correctness-workshop.github.io/2025/)
 - [Correctness 2024](https://correctness-workshop.github.io/2024/)
 - [Correctness 2023](https://correctness-workshop.github.io/2023/)
 - [Correctness 2022](https://correctness-workshop.github.io/2022/)
