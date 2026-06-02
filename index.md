@@ -105,15 +105,13 @@ The proceedings will be archived in ACM.
 ---
 ### <a class="anchor" name="dates"> Important Dates </a>
 
-TBD
 
-<!--
-* Paper submissions due: TBD
-* Notification of acceptance: TB
+* Paper submissions due: July 23rd, 2026
+* Notification of acceptance: September 1st, 2026
 * E-copyright registration completed by authors: TBD
 * Camera-ready papers due: TBD
 
-
+<!--
 * Paper submissions due: ~~July 18, 2025~~ ~~**Extended:** August 1, 2025~~ **Extended:** August 3, 2025
 * Notification of acceptance: ~~August 22, 2025~~ **Extended:** September 5, 2025
 * E-copyright registration completed by authors: TBD
