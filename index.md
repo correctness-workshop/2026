@@ -7,7 +7,7 @@ comments: false
 <img src="img/picture.jpg" alt="Drawing" style="width:1200px;" />
 
 <center><h2>Correctness 2026: 10th International Workshop on Software Correctness for HPC Applications</h2></center>
-<center><h4> November X, 2026 (full day, 9:00am - 5:30pm CST) </h4></center>
+<center><h4> November 16, 2026 (half day, 9:00am - 12:30pm CST) </h4></center>
 <center><h4> McCormick Place (Convention Center) </h4></center>
 <center><h4> Chicago, IL, USA </h4></center>
 <center><h5> Held in conjunction with SC26: <a href="https://sc26.supercomputing.org/">The International Conference for High Performance Computing, Networking, Storage and Analysis</a> </h5></center>
@@ -67,7 +67,8 @@ Topics of interest include, but are not limited to:
 
 Authors are invited to submit manuscripts in English structured as technical or experience papers in 
 any of these categories: (a) **regular papers:** with a length of at least **7 pages**, not exceeding **8 pages** of content, 
-including everything except references; (b) **short papers:** with a length of **5 pages** including references.
+including everything except references; (b) **short papers:** with a length of **4 pages** including everything except for references. 
+
 
 Submissions must use the [ACM proceedings template](https://www.acm.org/publications/proceedings-template) (Latex users, please use the "sigconf" option).
 
@@ -123,8 +124,8 @@ All time zones are AOE.
 ---
 ### <a class="anchor" name="date">Workshop Date</a>
 
-- Full-day Workshop
-- November X, 2026, 9:00am - 5:30pm CST
+- Half-day Workshop
+- November 16, 2026, 9:00am - 12:30pm CST
 
 ---
 ### <a class="anchor" name="org">Organizers</a>
