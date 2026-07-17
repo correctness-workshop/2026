@@ -44,6 +44,7 @@ Topics of interest include, but are not limited to:
 * Error identification in the design and implementation of numerical algorithms using finite-precision floating point numbers
 
 #### Tools for Debugging, Testing, and Correctness Checking
+* Corerctness checking assisted by AI
 * Program synthesis techniques for testing and debugging HPC applications
 * Tools to control the effect of non-determinism when debugging and testing HPC software
 * Scalable debugging solutions for large-scale HPC applications
@@ -136,28 +137,31 @@ All time zones are AOE.
 ---
 ### <a class="anchor" name="pc">Program Committee</a>
 
-TBD
-
-<!--
 
 [Alper Altuntas](https://staff.ucar.edu/users/altuntas), National Center for Atmospheric Research, USA <br />
+[Ali Jannesari](https://www.cs.iastate.edu/people/ali-jannesari), Iowa State University, USA <br />
 [Allison H. Baker](https://staff.ucar.edu/users/abaker), National Center for Atmospheric Research, USA <br />
 [John Baugh](https://www.ccee.ncsu.edu/people/jwb/), North Carolina State University, USA <br />
 [Patrick Carribault](http://www.cea.fr/), CEA-DAM, France  <br />
 [Ganesh Gopalakrishnan](https://www.cs.utah.edu/~ganesh/), University of Utah, USA <br />
 [Jan Hueckelheim](https://www.anl.gov/profile/jan-huckelheim), Argonne National Laboratory, USA <br />
-[Alexander Hück](#), Technical University Darmstadt, Germany <br />
-[Joachim Jenke](#), RWTH Aachen University, Germany  <br />
+[Alexander Hück](https://www.informatik.tu-darmstadt.de/sc/fg/people/details/alexander_hueck.en.jsp), Technical University of Darmstadt, Germany <br />
 [Michael O. Lam](https://w3.cs.jmu.edu/lam2mo/), James Madison University, USA <br />
+[Jacob Laurel](https://jsl1994.github.io/), Georgia Institute of Technology, USA <br />
 [Jackson Mayo](http://www.sandia.gov/), Sandia National Laboratories, USA <br />
 [Erdal Mutlu](https://www.pnnl.gov/people/erdal-mutlu), Pacific Northwest National Laboratory, USA <br />
+[Sreepathi Pai](https://cs.rochester.edu/~sree/), University of Rochester, USA <br />
 [Pavel Panchekha](https://pavpanchekha.com/), University of Utah, USA <br />
 [Samuel	Pollard](https://scholar.google.com/citations?user=X0zJ484AAAAJ&hl=en), Sandia National Laboratories, USA <br />
-[Balthasar Reuter](https://www.ecmwf.int/en/about/who-we-are/staff-profiles/balthasar-reuter), European Centre for Medium-Range Weather Forecasts, UK <br />
+[Emmanuelle Saillard](https://emmanuellesaillard.fr/), INRIA, France <br />
+[Simon Schwitanski](#), NVIDIA, USA <br />
 [Matt Sottile](https://scholar.google.com/citations?user=q6Z0FZMAAAAJ&hl=en), Lawrence Livermore National Laboratory, USA <br />
 [Mohit Tekriwal](https://mohittkr.github.io/), Lawrence Livermore National Laboratory, USA <br />
-[Lechen Yu](http://lechenyu.io/), Microsoft, USA <br />
 
+<!--
+[Lechen Yu](http://lechenyu.io/), Microsoft, USA <br />
+[Joachim Jenke](#), RWTH Aachen University, Germany  <br />
+[Balthasar Reuter](https://www.ecmwf.int/en/about/who-we-are/staff-profiles/balthasar-reuter), European Centre for Medium-Range Weather Forecasts, UK <br />
 -->
 
 ---
