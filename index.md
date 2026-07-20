@@ -70,6 +70,8 @@ Authors are invited to submit manuscripts in English structured as technical or 
 any of these categories: (a) **regular papers:** with a length of at least **7 pages**, not exceeding **8 pages** of content, 
 including everything except references; (b) **short papers:** with a length of **4 pages** including everything except for references. 
 
+The submissions are single-blind, i.e., authors of papers may include their names and affiliations.
+
 
 Submissions must use the [ACM proceedings template](https://www.acm.org/publications/proceedings-template) (Latex users, please use the "sigconf" option).
 
