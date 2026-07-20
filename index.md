@@ -108,7 +108,7 @@ The proceedings will be archived in ACM.
 ### <a class="anchor" name="dates"> Important Dates </a>
 
 
-* Paper submissions due: July 23rd, 2026
+* Paper submissions due: ~~July 23rd, 2026~~ **Extended (firm deadline):** July 30, 2026
 * Notification of acceptance: September 1st, 2026
 * E-copyright registration completed by authors: TBD
 * Camera-ready papers due: TBD
