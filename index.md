@@ -73,7 +73,8 @@ including everything except references; (b) **short papers:** with a length of *
 The submissions are single-blind, i.e., authors of papers may include their names and affiliations.
 
 
-Submissions must use the [ACM proceedings template](https://www.acm.org/publications/proceedings-template) (Latex users, please use the "sigconf" option).
+~~Submissions must use the [ACM proceedings template](https://www.acm.org/publications/proceedings-template) (Latex users, please use the "sigconf" option).~~
+Submissions must use the IEEE conference templates.
 
 <!--Submitted papers will be peer-reviewed by the Program Committee and accepted papers will be published by IEEE Xplore via TCHPC.-->
 Submitted papers will be peer-reviewed by the Program Committee and accepted papers will be published by ACM.
@@ -255,13 +256,13 @@ TBD
 
 
 ---
-###  <a class="anchor" name="award">Best Paper Presentation Award</a>
+###  <a class="anchor" name="award">Best Presentation Award</a>
 
-Like in previous years, we will have the **Best Paper Presentation Award**. The goal is to reward high-quality presentations, motivating speakers at the workshop to deliver their best work. We believe that advancing the field of Correctness in HPC requires more engagement and collaboration between the research, development, and applications communities, and better presentations will lead to more engaging and informative sessions. Higher quality presentations will also help us to present the benefits of Correctness methods to our sponsors. 
+Like in previous years, we will have the **Best Presentation Award**. The goal is to reward high-quality presentations, motivating speakers at the workshop to deliver their best work. We believe that advancing the field of Correctness in HPC requires more engagement and collaboration between the research, development, and applications communities, and better presentations will lead to more engaging and informative sessions. Higher quality presentations will also help us to present the benefits of Correctness methods to our sponsors. 
 
 A high-quality presentation should present clearly the correctness problem being addressed and its impact to scientific / HPC applications, and it should be easy to follow even for attendees that are not familiar with traditional correctness methods (formal methods, verification, testing, debugging, among others). Overall the presentation should make such methods and results more accessible to the general audience of the workshop and the SC community.
 
-Only regular papers are eligible for the Best Paper Presentation Award (short papers are not eligible).
+Only regular papers are eligible for the Best Presentation Award (short papers are not eligible).
 
 #### Winner
 
