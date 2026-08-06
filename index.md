@@ -148,7 +148,7 @@ All time zones are AOE.
 [Patrick Carribault](http://www.cea.fr/), CEA-DAM, France  <br />
 [Ganesh Gopalakrishnan](https://www.cs.utah.edu/~ganesh/), University of Utah, USA <br />
 [Jan Hueckelheim](https://www.anl.gov/profile/jan-huckelheim), Argonne National Laboratory, USA <br />
-[Alexander Hück](https://www.informatik.tu-darmstadt.de/sc/fg/people/details/alexander_hueck.en.jsp), Technical University of Darmstadt, Germany <br />
+[Alexander Hück](#), AMD, Germany <br />
 [Michael O. Lam](https://w3.cs.jmu.edu/lam2mo/), James Madison University, USA <br />
 [Jacob Laurel](https://jsl1994.github.io/), Georgia Institute of Technology, USA <br />
 [Jackson Mayo](http://www.sandia.gov/), Sandia National Laboratories, USA <br />
