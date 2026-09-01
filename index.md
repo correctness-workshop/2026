@@ -163,6 +163,7 @@ All time zones are AOE.
 [Simon Schwitanski](#), NVIDIA, USA <br />
 [Matt Sottile](https://scholar.google.com/citations?user=q6Z0FZMAAAAJ&hl=en), Lawrence Livermore National Laboratory, USA <br />
 [Mohit Tekriwal](https://mohittkr.github.io/), Lawrence Livermore National Laboratory, USA <br />
+[Lechen Yu](http://lechenyu.io/), NVIDIA, USA <br />
 
 <!--
 [Lechen Yu](http://lechenyu.io/), Microsoft, USA <br />
