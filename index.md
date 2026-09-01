@@ -105,7 +105,10 @@ HPC Bug Fest papers must be submitted electronically using the "Correctness Shor
 
 ###  <a class="anchor" name="proceedings"> Proceedings </a>
 
-The proceedings will be archived in ACM.
+~~The proceedings will be archived in ACM.~~
+The paper must be formatted for US letter (8.5in x 11in) 
+paper and conform to IEEE's guidelines. Use the IEEE templates available 
+at https://www.ieee.org/conferences/publishing/templates.html.
 
 ---
 ### <a class="anchor" name="dates"> Important Dates </a>
@@ -113,8 +116,8 @@ The proceedings will be archived in ACM.
 
 * Paper submissions due: ~~July 23rd, 2026~~ **Extended (firm deadline):** July 30, 2026
 * Notification of acceptance: September 1st, 2026
-* E-copyright registration completed by authors: TBD
-* Camera-ready papers due: TBD
+* E-copyright registration completed by authors: September 18, 2026
+* Camera-ready papers due: September 25, 2026
 
 <!--
 * Paper submissions due: ~~July 18, 2025~~ ~~**Extended:** August 1, 2025~~ **Extended:** August 3, 2025
