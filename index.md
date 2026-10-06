@@ -181,9 +181,8 @@ All time zones are AOE.
 ### <a class="anchor" name="program">Program</a>
 <br />
 
-TBD
+<b>DRAFT</b>
 
-<!--
 #### Workshop Introduction
 <table>
 <tr><td width="15">  </td> <td>9:00am - 9:05am:  <b>Opening Remarks</b>, Ignacio Laguna (LLNL), Cindy Rubio-González (UC Davis)</td> </tr>
@@ -191,7 +190,15 @@ TBD
 
 #### Invited Talk
 <table>
-<tr><td width="15">  </td> <td>9:05am - 10:00am:  <b>Featured Speaker:</b> Prof. Dr. Matthias Müller (RWTH Aachen University): <i>"Runtime Correctness Checking with MUST and Assisting Tools"</i> </td> </tr>
+<tr><td width="15">  </td> <td>9:05am - 9:35am:  <b>Featured Speaker:</b> Dr. Hal Finkel (Associate Director, DOE ASCR): <i>"Genesis Mission and the Next Generation of Verified Scientific Workflows"</i> </td> </tr>
+</table>
+
+#### Runtime Detection and Communication Correctness (Chair: TBD)
+<table>
+
+<tr><td width="15">  </td> <td>9:35am - 9:50am:  Paper 1:  <b>"A Tool Infrastructure for Runtime Correctness Checking of Device-Initiated Multi-GPU Communication"</b>,  Felix Tomski, Semih Burak, Matthias S. Mueller </td> </tr>
+
+<tr><td width="15">  </td> <td>9:50am - 10:00am:  Short Paper:  <b>"Reducing Confusion and Broadcasting Understanding: An Empirical Study of the Semantics of NCCL"</b>, Azalea Raad, Max Stupple, Alastair F. Donaldson, Max Stupple</td> </tr>
 </table>
 
 #### Break
@@ -199,64 +206,36 @@ TBD
 <tr><td width="15">  </td> <td> 10:00am - 10:30am:  Break </td> </tr>
 </table>
 
-#### Correctness in Parallel Code (MPI, OpenMP, and Beyond) (Chair: Cindy Rubio-González)
+#### Floating-Point Error Analysis and Numerical Correctness (Chair: TBD)
 <table>
 
-<tr><td width="15">  </td> <td>10:30am - 10:55am:  Paper 1:  <b>"Using Code Coverage to Assess Feature Gaps in MPI Correctness Tool Classification Tests"</b>,  Alexander Hück, Simon Schwitanski, Tim Jammer, Joachim Jenke, Yussur Mustafa Oraji, Christian Bischof </td> </tr>
+<tr><td width="15">  </td> <td>10:30am - 10:45am:  Paper 2:  <b>"Tighter error bounds using structural floating-point properties and tail bounds"</b>,  Mohit Tekriwal, Ignacio Laguna, Jean-Baptiste Jeannin, Yichen Tao</td> </tr>
 
-<tr><td width="15">  </td> <td>10:55am - 11:20am:  Paper 2:  <b>"Coupling Static and Dynamic MPI Correctness Tools to Optimize Accuracy and Overhead"</b>, Yussur Mustafa Oraji, Simon Schwitanski, Semih Burak, Christian Bischof, Matthias Müller</td> </tr>
+<tr><td width="15">  </td> <td>10:45am - 11:00am:  Paper 3:  <b>"Evaluating Function-Level Accuracy and Performance of SIMD Math Libraries with FP32 Inputs"</b>,  Robert Strzodka, Xingjian Qi</td> </tr>
 
-<tr><td width="15">  </td> <td>11:20am - 11:45am:  Paper 3:  <b>"Data Race Detection through Vibe Translation"</b>, Jan Hueckelheim, Vimarsh Sathia, Siyuan Brant Qian</td> </tr>
+<tr><td width="15">  </td> <td>11:00am - 11:15am:  Paper 4:  <b>"A Probability-Based Static Analysis to Lower Overhead in Floating-Point Exception Detection in NVIDIA GPUs"</b>,  Alishba Gul, Sreepathi Pai </td> </tr>
 
-
-<tr><td width="15">  </td> <td>11:45am - 12:10pm:  Paper 4:  <b>"Differential Testing for Sequential to Parallel Transformations"</b>, Jobayer Ahmmed, Quazi I. Mahmud, Junhyung Shim, Liyi Li, Ali Jannesari, Myra B. Cohen</td> </tr>
-
-<tr><td width="15">  </td> <td>12:10pm - 12:30pm:  Paper 5 (Short paper):  <b>"Extending MPI Correctness Benchmarking to the Fortran Language"</b>, Yussur Mustafa Oraji, Alexander Hück, Christian Bischof</td> </tr>
+<tr><td width="15">  </td> <td>11:15am - 11:30am:  Paper 5:  <b>"PaFEx: Cross-platform Floating-point Exception Detection using LLVM and PAPI"</b>, Samin Islam, Shirley Moore, Christoph Lauter </td> </tr>
 </table>
 
-#### Lunch Break
+#### Verification of Parallel Programs and Scientific Software (Chair: TBD)
 <table>
-<tr><td width="15">  </td> <td> 12:30pm - 2:00pm:  Lunch Break </td> </tr>
+
+<tr><td width="15">  </td> <td>11:30am - 11:45am:  Paper 6:  <b>"Parameterized Verification of Deterministic MPI Programs"</b>,  Stephen F. Siegel </td> </tr>
+
+<tr><td width="15">  </td> <td>11:45am - 12:00pm:  Paper 7:  <b>"Verification of PETSc with CIVL]{Verification of PETSc with CIVL using LLM-generated ACSL contracts and deterministic driver generation"</b>,  Jan Hueckelheim, Hansol Suh, Stephen F. Siegel </td> </tr>
+
+<tr><td width="15">  </td> <td>9=12:00pm - 12:15pm:  Paper 8:  <b>"Developing a Numerical Algorithm with CIVL Model Checking in the Loop"</b>,  Jan Hueckelheim, Anshu Dubey, Youngjun Lee </td> </tr>
+
+<tr><td width="15">  </td> <td>12:15pm - 12:30pm:  Paper 9:  <b>"LASSI-Verify: Adaptive Empirical Verification of LLM-Generated Parallel Scientific Code Transformations"</b>,  Valerie Taylor, Xingfu Wu, Zhiling Lan, Matthew Dearing </td> </tr>
 </table>
 
-#### Invited Talk
+#### Best Presentation Award
 <table>
-<tr><td width="15">  </td> <td>2:00pm - 3:00pm: <b>Featured Speaker:</b> Prof. Ali Jannesari (Iowa State University): <i>"Correct and Efficient HPC Code Generation with LLMs: Challenges and Opportunities"</i></td> </tr>
+<tr><td width="15">  </td> <td>12:30pm - 12:35pm: Best Presentation Award </td> </tr>
+<tr><td width="15">  </td> <td>12:35pm: Adjourn </td> </tr>
 </table>
 
-#### Break
-<table>
-<tr><td width="15">  </td> <td> 3:00pm - 3:30am:  Break </td> </tr>
-</table>
-
-#### Numerical Correctness (Chair: Ignacio Laguna)
-<table>
-<tr><td width="15">  </td> <td>3:30pm - 3:55pm:  Paper 6: <b>"Towards an Automated Workflow for Floating-Point Analysis of GPU Kernels"</b>, Esteban M. Rangel, S. John Pennycook</td> </tr>
-
-
-<tr><td width="15">  </td> <td>3:55pm - 4:20pm:  Paper 7: <b>"LLM4FP: LLM-Based Program Generation for Triggering Floating-Point Inconsistencies Across Compilers"</b>, Yutong Wang, Cindy Rubio-González</td> </tr>
-
-<tr><td width="15">  </td> <td>4:20pm - 4:45pm:  Paper 8: <b>"Exploring Reduced Precision for Deep Learning Activation Functions"</b>, Epifanio Sarinana, Christoph Lauter, Shirley Moore</td> </tr>
-</table>
-
-#### Lightning Talks
-<table>
-<tr><td width="15">  </td> <td>4:45pm - 5:25pm: <b>Emerging Tools Lightning Talks Session</b>: featuring short presentations about emerging correctness tools. </td></tr>
-
-<tr> <td width="15"> </td> <td>• <i>"Scabbard: LLVM Instrumentation-aided Race Checking in CPU/GPU Unified Memory for AMD GPUs"</i>, Andrew Osterhout (Univ. of Utah)</td></tr>
-<tr> <td width="15"> </td> <td>• <i>"Scalable formal verification of scientific computing libraries"</i>, Mohit K. Tekriwal (LLNL)</td></tr>
-<tr> <td width="15"> </td> <td>• <i>"Data Race Detection by Concentrating on Instrumentation"</i>, Tim Jammer (TU Darmstadt)</td></tr>
-<tr> <td width="15"> </td> <td>• <i>"Using FloatGuard to detect floating point exceptions in AMD GPU programs"</i>, Dolores Miao (UC Davis)</td></tr>
-
-</table>
-
-#### Best Paper Presentation Award
-<table>
-<tr><td width="15">  </td> <td>5:25pm - 5:30pm: Best Paper Presentation Award </td> </tr>
-<tr><td width="15">  </td> <td>5:30pm: Adjourn </td> </tr>
-</table>
-
--->
 
 
 ---
