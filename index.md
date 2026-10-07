@@ -190,7 +190,7 @@ All time zones are AOE.
 
 #### Invited Talk
 <table>
-<tr><td width="15">  </td> <td>9:05am - 9:35am:  <b>Featured Speaker:</b> Dr. Hal Finkel (Associate Director, DOE ASCR): <i>"Genesis Mission and the Next Generation of Verified Scientific Workflows"</i> </td> </tr>
+<tr><td width="15">  </td> <td>9:05am - 9:35am:  <b>Invited Speaker:</b> Dr. Hal Finkel (Associate Director, [U.S. Department of Energy (DOE)'s Advanced Scientific Computing Research](https://science.osti.gov/ascr)): <i>"Genesis Mission and the Next Generation of Verified Scientific Workflows"</i> </td> </tr>
 </table>
 
 #### Runtime Detection and Communication Correctness (Chair: TBD)
