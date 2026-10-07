@@ -223,7 +223,7 @@ All time zones are AOE.
 
 <tr><td width="15">  </td> <td>11:30am - 11:45am:  Paper 6:  <b>"Parameterized Verification of Deterministic MPI Programs"</b>,  Stephen F. Siegel </td> </tr>
 
-<tr><td width="15">  </td> <td>11:45am - 12:00pm:  Paper 7:  <b>"Verification of PETSc with CIVL]{Verification of PETSc with CIVL using LLM-generated ACSL contracts and deterministic driver generation"</b>,  Jan Hueckelheim, Hansol Suh, Stephen F. Siegel </td> </tr>
+<tr><td width="15">  </td> <td>11:45am - 12:00pm:  Paper 7:  <b>"Verification of PETSc with CIVL using LLM-generated ACSL contracts and deterministic driver generation"</b>,  Jan Hueckelheim, Hansol Suh, Stephen F. Siegel </td> </tr>
 
 <tr><td width="15">  </td> <td>9=12:00pm - 12:15pm:  Paper 8:  <b>"Developing a Numerical Algorithm with CIVL Model Checking in the Loop"</b>,  Jan Hueckelheim, Anshu Dubey, Youngjun Lee </td> </tr>
 
