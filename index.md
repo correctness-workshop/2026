@@ -181,7 +181,7 @@ All time zones are AOE.
 ### <a class="anchor" name="program">Program</a>
 <br />
 
-<b>DRAFT</b>
+<p style="color: red;"><b>DRAFT (not final)</b></p>
 
 #### Workshop Introduction
 <table>
