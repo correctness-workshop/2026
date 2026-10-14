@@ -196,9 +196,9 @@ All time zones are AOE.
 #### Runtime Detection and Communication Correctness (Chair: TBD)
 <table>
 
-<tr><td width="15">  </td> <td>9:35am - 9:50am:  Paper 1:  <b>"A Tool Infrastructure for Runtime Correctness Checking of Device-Initiated Multi-GPU Communication"</b>,  Felix Tomski, Semih Burak, Matthias S. Mueller </td> </tr>
+<tr><td width="15">  </td> <td>9:35am - 9:50am:  Paper 1:  <b>"A Tool Infrastructure for Runtime Correctness Checking of Device-Initiated Multi-GPU Communication"</b>,  Felix Tomski, Semih Burak, Matthias S. Müeller </td> </tr>
 
-<tr><td width="15">  </td> <td>9:50am - 10:00am:  Short Paper:  <b>"Reducing Confusion and Broadcasting Understanding: An Empirical Study of the Semantics of NCCL"</b>, Azalea Raad, Max Stupple, Alastair F. Donaldson, Max Stupple</td> </tr>
+<tr><td width="15">  </td> <td>9:50am - 10:00am:  Short Paper:  <b>"Reducing Confusion and Broadcasting Understanding: An Empirical Study of the Semantics of NCCL"</b>, Max Stupple, Alastair F. Donaldson, Azalea Raad</td> </tr>
 </table>
 
 #### Break
@@ -209,25 +209,25 @@ All time zones are AOE.
 #### Floating-Point Error Analysis and Numerical Correctness (Chair: TBD)
 <table>
 
-<tr><td width="15">  </td> <td>10:30am - 10:45am:  Paper 2:  <b>"Tighter error bounds using structural floating-point properties and tail bounds"</b>,  Mohit Tekriwal, Ignacio Laguna, Jean-Baptiste Jeannin, Yichen Tao</td> </tr>
+<tr><td width="15">  </td> <td>10:30am - 10:45am:  Paper 2:  <b>"Tighter Error Bounds Using Structural Floating-Point Properties and Tail Bounds"</b>, Mohit Tekriwal, Ignacio Laguna, Yichen Tao, Jean-Baptiste Jeannin</td> </tr>
 
-<tr><td width="15">  </td> <td>10:45am - 11:00am:  Paper 3:  <b>"Evaluating Function-Level Accuracy and Performance of SIMD Math Libraries with FP32 Inputs"</b>,  Robert Strzodka, Xingjian Qi</td> </tr>
+<tr><td width="15">  </td> <td>10:45am - 11:00am:  Paper 3:  <b>"Evaluating Function-Level Accuracy and Performance of SIMD Math Libraries with FP32 Inputs"</b>,  Xingjian Qi, Robert Strzodka</td> </tr>
 
 <tr><td width="15">  </td> <td>11:00am - 11:15am:  Paper 4:  <b>"A Probability-Based Static Analysis to Lower Overhead in Floating-Point Exception Detection in NVIDIA GPUs"</b>,  Alishba Gul, Sreepathi Pai </td> </tr>
 
-<tr><td width="15">  </td> <td>11:15am - 11:30am:  Paper 5:  <b>"PaFEx: Cross-platform Floating-point Exception Detection using LLVM and PAPI"</b>, Samin Islam, Shirley Moore, Christoph Lauter </td> </tr>
+<tr><td width="15">  </td> <td>11:15am - 11:30am:  Paper 5:  <b>"PaFEx: Cross-platform Floating-point Exception Detection using LLVM and PAPI"</b>, Samin Islam, Shirley V. Moore, Christoph Q. Lauter </td> </tr>
 </table>
 
-#### Verification of Parallel Programs and Scientific Software (Chair: TBD)
+#### Verification of Parallel Programs and Scientific Software (Chair: Mohit Tekriwal)
 <table>
 
 <tr><td width="15">  </td> <td>11:30am - 11:45am:  Paper 6:  <b>"Parameterized Verification of Deterministic MPI Programs"</b>,  Stephen F. Siegel </td> </tr>
 
-<tr><td width="15">  </td> <td>11:45am - 12:00pm:  Paper 7:  <b>"Verification of PETSc with CIVL using LLM-generated ACSL contracts and deterministic driver generation"</b>,  Jan Hueckelheim, Hansol Suh, Stephen F. Siegel </td> </tr>
+<tr><td width="15">  </td> <td>11:45am - 12:00pm:  Paper 7:  <b>"Verification of PETSc With CIVL Using LLM-generated ACSL Contracts and Deterministic Driver Generation"</b>,  Hansol Suh, Jan Hueckelheim, Stephen F. Siegel </td> </tr>
 
-<tr><td width="15">  </td> <td>9=12:00pm - 12:15pm:  Paper 8:  <b>"Developing a Numerical Algorithm with CIVL Model Checking in the Loop"</b>,  Jan Hueckelheim, Anshu Dubey, Youngjun Lee </td> </tr>
+<tr><td width="15">  </td> <td>12:10pm - 12:15pm:  Paper 8:  <b>"LASSI-Verify: Adaptive Empirical Verification of LLM-Generated Parallel Scientific Code Transformations"</b>, Matthew Dearing, Xingfu Wu, Zhiling Lan, Valerie Taylor  </td> </tr>
 
-<tr><td width="15">  </td> <td>12:15pm - 12:30pm:  Paper 9:  <b>"LASSI-Verify: Adaptive Empirical Verification of LLM-Generated Parallel Scientific Code Transformations"</b>,  Valerie Taylor, Xingfu Wu, Zhiling Lan, Matthew Dearing </td> </tr>
+<tr><td width="15">  </td> <td>12:15pm - 12:30pm:  Paper 9:  <b>"Developing a Numerical Algorithm with CIVL Model Checking in the Loop"</b>, Youngjun Lee, Anshu Dubey, Jan Hueckelheim</td> </tr>
 </table>
 
 #### Best Presentation Award
