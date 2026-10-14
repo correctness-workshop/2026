@@ -193,7 +193,7 @@ All time zones are AOE.
 <tr><td width="15">  </td> <td>9:05am - 9:35am:  <b>Invited Speaker:</b> Dr. Hal Finkel (Associate Director, <a href="https://science.osti.gov/ascr"> U.S. Department of Energy (DOE)'s Advanced Scientific Computing Research</a>): <i>"Genesis Mission and the Next Generation of Verified Scientific Workflows"</i> </td> </tr>
 </table>
 
-#### Runtime Detection and Communication Correctness (Chair: TBD)
+#### Runtime Detection and Communication Correctness (Chair: Cindy & Ignacio)
 <table>
 
 <tr><td width="15">  </td> <td>9:35am - 9:50am:  Paper 1:  <b>"A Tool Infrastructure for Runtime Correctness Checking of Device-Initiated Multi-GPU Communication"</b>,  Felix Tomski, Semih Burak, Matthias S. Müeller </td> </tr>
