@@ -218,7 +218,7 @@ All time zones are AOE.
 <tr><td width="15">  </td> <td>11:15am - 11:30am:  Paper 5:  <b>"PaFEx: Cross-platform Floating-point Exception Detection using LLVM and PAPI"</b>, Samin Islam, Shirley V. Moore, Christoph Q. Lauter </td> </tr>
 </table>
 
-#### Verification of Parallel Programs and Scientific Software (Chair: Mohit Tekriwal)
+#### Verification of Parallel Programs and Scientific Software (Chair: Mohit Tekriwal (LLNL))
 <table>
 
 <tr><td width="15">  </td> <td>11:30am - 11:45am:  Paper 6:  <b>"Parameterized Verification of Deterministic MPI Programs"</b>,  Stephen F. Siegel </td> </tr>
