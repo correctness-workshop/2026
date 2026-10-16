@@ -181,8 +181,6 @@ All time zones are AOE.
 ### <a class="anchor" name="program">Program</a>
 <br />
 
-<p style="color: red;"><b>DRAFT (not final)</b></p>
-
 #### Workshop Introduction
 <table>
 <tr><td width="15">  </td> <td>9:00am - 9:05am:  <b>Opening Remarks</b>, Ignacio Laguna (LLNL), Cindy Rubio-González (UC Davis)</td> </tr>
