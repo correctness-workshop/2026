@@ -204,7 +204,7 @@ All time zones are AOE.
 <tr><td width="15">  </td> <td> 10:00am - 10:30am:  Break </td> </tr>
 </table>
 
-#### Floating-Point Error Analysis and Numerical Correctness (Chair: TBD)
+#### Floating-Point Error Analysis and Numerical Correctness (Chair: Lechen Yu (NVIDIA))
 <table>
 
 <tr><td width="15">  </td> <td>10:30am - 10:45am:  Paper 2:  <b>"Tighter Error Bounds Using Structural Floating-Point Properties and Tail Bounds"</b>, Mohit Tekriwal, Ignacio Laguna, Yichen Tao, Jean-Baptiste Jeannin</td> </tr>
