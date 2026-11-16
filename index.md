@@ -223,9 +223,10 @@ All time zones are AOE.
 
 <tr><td width="15">  </td> <td>11:45am - 12:00pm:  Paper 7:  <b>"Verification of PETSc With CIVL Using LLM-generated ACSL Contracts and Deterministic Driver Generation"</b>,  Hansol Suh, Jan Hueckelheim, Stephen F. Siegel </td> </tr>
 
-<tr><td width="15">  </td> <td>12:10pm - 12:15pm:  Paper 8:  <b>"LASSI-Verify: Adaptive Empirical Verification of LLM-Generated Parallel Scientific Code Transformations"</b>, Matthew Dearing, Xingfu Wu, Zhiling Lan, Valerie Taylor  </td> </tr>
+<tr><td width="15">  </td> <td>12:10pm - 12:15pm:  Paper 8:  <b>"Developing a Numerical Algorithm with CIVL Model Checking in the Loop"</b>, Youngjun Lee, Anshu Dubey, Jan Hueckelheim</td> </tr>
 
-<tr><td width="15">  </td> <td>12:15pm - 12:30pm:  Paper 9:  <b>"Developing a Numerical Algorithm with CIVL Model Checking in the Loop"</b>, Youngjun Lee, Anshu Dubey, Jan Hueckelheim</td> </tr>
+<tr><td width="15">  </td> <td>12:15pm - 12:30pm:  Paper 9: <b>"LASSI-Verify: Adaptive Empirical Verification of LLM-Generated Parallel Scientific Code Transformations"</b>, Matthew Dearing, Xingfu Wu, Zhiling Lan, Valerie Taylor  </td> </tr>
+
 </table>
 
 #### Best Presentation Award
