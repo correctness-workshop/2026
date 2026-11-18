@@ -248,16 +248,10 @@ Only regular papers are eligible for the Best Presentation Award (short papers a
 
 #### Winner
 
-TBD
+The winner of the **Best Presentation Award** is the paper "Parameterized Verification of Deterministic MPI Programs", 
+authored by Stephen F. Siegel. Congratulations!
+<img src="img/best_pres_2026.jpeg" alt="Award" />
 
-
-<!--
-
-The winner of the **Best Paper Presentation Award** is the paper "Data Race Detection through Vibe Translation", 
-co-authored by Jan Hueckelheim, Vimarsh Sathia, and Siyuan Brant Qian. Congratulations!
-<img src="img/best_pres_2025.jpeg" alt="Award" />
-
--->
 
 ---
 ###  <a class="anchor" name="contact">Contact Information</a>
