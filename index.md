@@ -250,6 +250,8 @@ Only regular papers are eligible for the Best Presentation Award (short papers a
 
 The winner of the **Best Presentation Award** is the paper "Parameterized Verification of Deterministic MPI Programs", 
 authored by Stephen F. Siegel. Congratulations!
+<br />
+
 <img src="img/best_pres_2026.jpeg" alt="Award" />
 
 
